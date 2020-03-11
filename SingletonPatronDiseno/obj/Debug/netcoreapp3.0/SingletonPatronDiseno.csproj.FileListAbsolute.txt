@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\SingletonPatronDiseno\SingletonPatronDiseno\bin\Debug\netcoreapp3.0\SingletonPatronDiseno.exe
+C:\Users\hp\source\repos\SingletonPatronDiseno\SingletonPatronDiseno\bin\Debug\netcoreapp3.0\SingletonPatronDiseno.deps.json
+C:\Users\hp\source\repos\SingletonPatronDiseno\SingletonPatronDiseno\bin\Debug\netcoreapp3.0\SingletonPatronDiseno.runtimeconfig.json
+C:\Users\hp\source\repos\SingletonPatronDiseno\SingletonPatronDiseno\bin\Debug\netcoreapp3.0\SingletonPatronDiseno.runtimeconfig.dev.json
+C:\Users\hp\source\repos\SingletonPatronDiseno\SingletonPatronDiseno\bin\Debug\netcoreapp3.0\SingletonPatronDiseno.dll
+C:\Users\hp\source\repos\SingletonPatronDiseno\SingletonPatronDiseno\bin\Debug\netcoreapp3.0\SingletonPatronDiseno.pdb
+C:\Users\hp\source\repos\SingletonPatronDiseno\SingletonPatronDiseno\obj\Debug\netcoreapp3.0\SingletonPatronDiseno.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\SingletonPatronDiseno\SingletonPatronDiseno\obj\Debug\netcoreapp3.0\SingletonPatronDiseno.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\SingletonPatronDiseno\SingletonPatronDiseno\obj\Debug\netcoreapp3.0\SingletonPatronDiseno.AssemblyInfo.cs
+C:\Users\hp\source\repos\SingletonPatronDiseno\SingletonPatronDiseno\obj\Debug\netcoreapp3.0\SingletonPatronDiseno.dll
+C:\Users\hp\source\repos\SingletonPatronDiseno\SingletonPatronDiseno\obj\Debug\netcoreapp3.0\SingletonPatronDiseno.pdb
